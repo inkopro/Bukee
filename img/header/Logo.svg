@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="138.56" height="37" viewBox="0 0 138.56 37">
+  <g id="Logo" transform="translate(-215 -44)">
+    <text id="BUKEE" transform="translate(303.56 73)" fill="#fefefe" font-size="28" font-family="RobotoSlab-Bold, Roboto Slab" font-weight="700" letter-spacing="0.04em"><tspan x="-49.962" y="0">BUK</tspan><tspan y="0" fill="#65e496">EE</tspan></text>
+    <g id="logo_icon" data-name="logo icon">
+      <path id="Rectangle_10_copy_3" data-name="Rectangle 10 copy 3" d="M243,78,215,50h28Z" fill="#65e496"/>
+      <path id="Rectangle_10" data-name="Rectangle 10" d="M243,50,215,78V50Z" fill="#44444f"/>
+    </g>
+  </g>
+</svg>

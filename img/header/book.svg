@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="444.97" height="639" viewBox="0 0 444.97 639">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="book" width="444.97" height="639" rx="5" transform="translate(215 259)" fill="#44444f"/>
+    </clipPath>
+  </defs>
+  <g id="book-2" data-name="book" transform="translate(-215 -259)">
+    <g id="book-3" data-name="book">
+      <rect id="book-4" data-name="book" width="444.97" height="639" rx="5" transform="translate(215 259)" fill="#44444f"/>
+      <g id="Clip" clip-path="url(#clip-path)">
+        <path id="Rectangle_10_copy" data-name="Rectangle 10 copy" d="M591.051,795.046,756.47,629.655a30.747,30.747,0,1,1,43.486,43.479L634.537,838.526a30.747,30.747,0,0,1-43.486-43.479Z" fill="#65e496"/>
+        <path id="Rectangle_10_copy_2" data-name="Rectangle 10 copy 2" d="M510.258,749.231,675.677,583.84a30.747,30.747,0,0,1,43.486,43.479L553.745,792.71a30.747,30.747,0,0,1-43.486-43.479Z" fill="#65e496"/>
+        <rect id="Rectangle_9" data-name="Rectangle 9" width="62.72" height="639" transform="translate(215 259)" fill="#3d3d47"/>
+      </g>
+    </g>
+  </g>
+</svg>
